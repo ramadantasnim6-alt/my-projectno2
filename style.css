@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  background: #9E001D;
+  color: blue;
+  text-align: left;
+}
+
+h1 {
+  background: yellow;
+  color: #57FFBC;
+  font-family: Comic Sans MS;
+}
+
+p {
+  font-size: 64px;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+button {
+  background-color: #593C8F;
+  color: white;
+  boreder: #171738;
+  boreder-radius: 12px;
+  padding: 12px 20px;
+  font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffd9ce;
+}
